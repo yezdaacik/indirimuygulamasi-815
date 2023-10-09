@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim_uygulaması.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim_uygulaması.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\bin\Debug\indirim uygulaması.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\bin\Debug\indirim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\bin\Debug\indirim uygulaması.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\indirim uygulaması\indirim uygulaması\obj\Debug\indirim uygulaması.pdb
